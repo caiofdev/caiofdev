@@ -18,7 +18,3 @@ Hello, my name is Caio Reis, I'm 18 years old and I'm Brazilian, I'm currently s
         <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Caioreis08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       </div>
 </p>
-
-[![Linkedin](https://img.shields.io/badge/-Caio-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioreis08/)](https://www.linkedin.com/in/caioreis08/)
-[![Gmail Badge](https://img.shields.io/badge/-caiodev2005@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=black&link=mailto:caiodev2005@gmail.com)](mailto:caiodev2005@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Caioreis08)
