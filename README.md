@@ -4,7 +4,10 @@
 
 Hello, my name is Caio Reis, I'm 18 years old and I'm Brazilian, I'm currently studying Information Systems at the <a href="https://www2.ufjf.br/ufjf/">UFJF</a>. I'm curious and very interested in the area of ​​programming, I'm totally ready to test and learn new things. I am always studying and practicing to increase my knowledge in order to become the best I can be.
 
-<br />
+
+##
+
+![Caioreis08's Stats](https://github-readme-stats.vercel.app/api?username=Caioreis08&theme=dark&show_icons=true&hide_border=false&count_private=true) ![Caioreis08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caioreis08&theme=dark&hide_border=false)
 
 ##
 
