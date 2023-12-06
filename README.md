@@ -7,7 +7,7 @@ Hello, my name is Caio Reis, I'm 18 years old and I'm Brazilian, I'm currently s
 
 ##
 
-![Caioreis08's Stats](https://github-readme-stats.vercel.app/api?username=Caioreis08&theme=dark&show_icons=true&hide_border=false&count_private=true) ![Caioreis08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caioreis08&theme=dark&hide_border=false)
+![Caioreis08's Stats](https://github-readme-stats.vercel.app/api?username=Caioreis08&theme=dark&show_icons=true&hide_border=false&count_private=true) 
 
 ##
 
