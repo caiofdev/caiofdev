@@ -7,10 +7,6 @@ Hello, my name is Caio Reis, I'm 18 years old and I'm Brazilian, I'm currently s
 
 ##
 
-![Caioreis08's Stats](https://github-readme-stats.vercel.app/api?username=Caioreis08&theme=dark&show_icons=true&hide_border=false&count_private=true) 
-
-##
-
 <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" align="left" />
 <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" align="left"/>
 <img alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" align="left"/>
