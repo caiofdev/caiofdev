@@ -2,7 +2,7 @@
 
 <br />
 
-Hello, my name is Caio Reis, I'm 18 years old and I'm Brazilian, I'm currently studying Information Systems at <a href="https://www2.ufjf.br/ufjf/">UFJF</a>. I'm curious and very interested in programming, I'm ready to test and learn new things. I am always studying and practicing to increase my knowledge.
+Hello, my name is Caio Reis, I'm currently studying Information Systems at <a href="https://www2.ufjf.br/ufjf/">UFJF</a>. I am always studying and practicing to increase my knowledge. 
 
 ##
 
