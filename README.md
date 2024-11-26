@@ -117,27 +117,3 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="25" alt="windows8 logo"  />
 </div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<h4 align="left">Currently learning 📚</h4>
-
-###
-
-<p align="left">These are some technologies that I am currently learning, whether in college or studying on my own.</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="25" alt="vuejs logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
-</div>
