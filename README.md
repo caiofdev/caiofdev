@@ -2,11 +2,9 @@
 
 ###
 
-<h6 align="left">About me❗</h6>
+<h4 align="left">About me❗</h4>
 
 ###
-
-<br clear="both">
 
 <p align="left">I am an Information Systems student at UFJF, always looking for new challenges and opportunities to expand my knowledge. My passion for technology drives me to continually explore new trends and innovations in the sector.</p>
 
@@ -24,7 +22,7 @@
 
 ###
 
-<h6 align="left">Contact me 📧</h6>
+<h4 align="left">Contact me 📧</h4>
 
 ###
 
@@ -36,11 +34,11 @@
 
 ###
 
-<h6 align="left">Skills 🔧</h6>
+<h4 align="left">Skills 🔧</h4>
 
 ###
 
-<h6 align="left">Front-end Development</h6>
+<h4 align="left">Front-end Development</h4>
 
 ###
 
@@ -58,7 +56,7 @@
 
 ###
 
-<h6 align="left">Back-end Development</h6>
+<h4 align="left">Back-end Development</h4>
 
 ###
 
@@ -72,7 +70,7 @@
 
 ###
 
-<h6 align="left">API Utilities</h6>
+<h4 align="left">API Utilities</h4>
 
 ###
 
@@ -82,7 +80,7 @@
 
 ###
 
-<h6 align="left">Tools</h6>
+<h4 align="left">Tools</h4>
 
 ###
 
@@ -104,11 +102,11 @@
 
 ###
 
-<h6 align="left">IDE's & Development environment 💻</h6>
+<h4 align="left">IDE's & Development environment 💻</h4>
 
 ###
 
-<h6 align="left">IDE's</h6>
+<h4 align="left">IDE's</h4>
 
 ###
 
@@ -120,7 +118,7 @@
 
 ###
 
-<h6 align="left">Development environment</h6>
+<h4 align="left">Development environment</h4>
 
 ###
 
@@ -134,7 +132,7 @@
 
 ###
 
-<h6 align="left">Currently learning 📚</h6>
+<h4 align="left">Currently learning 📚</h4>
 
 ###
 
@@ -151,11 +149,3 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
-</div>
-
-###
