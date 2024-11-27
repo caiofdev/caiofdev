@@ -85,5 +85,3 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
 </div>
-
-<h1 align="left"></h1>
