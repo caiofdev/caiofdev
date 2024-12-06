@@ -2,18 +2,18 @@
 
 ###
 
-<h4 align="left">About me❗</h4>
+<h4 align="left">Sobre mim❗</h4>
 
 ###
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="250px" width="240px" align="right">
 
-<p align="left">I am an Information Systems student at UFJF, always looking for new challenges and opportunities to expand my knowledge. My passion for technology drives me to continually explore new trends and innovations in the sector.</p>
+<p align="left">Sou estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora, sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Minha paixão por tecnologia me leva a explorar continuamente novas tendências e inovações no setor.</p>
 
 ###
 
-<h4 align="left">Contact me 📧</h4>
+<h4 align="left">Contato 📧</h4>
 
 ###
 
-<p align="left">If you would like to contact me for any reason, these are some ways to reach me:<br><br>📌 caiofreis2005@gmail.com<br>📌https://www.linkedin.com/in/caiofreis/</p>
+<p align="left">Caso queira entrar em contato por qualquer motivos, aqui há algumas maneiras de me encontrar:<br><br>📌 caiofreis2005@gmail.com<br>📌https://www.linkedin.com/in/caiofreis/</p>
