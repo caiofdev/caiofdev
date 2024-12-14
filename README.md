@@ -16,4 +16,4 @@
 
 ###
 
-<p align="left">Caso queira entrar em contato por qualquer motivos, aqui há algumas maneiras de me encontrar:<br><br>📌 caiofreis2005@gmail.com<br>📌https://www.linkedin.com/in/caiofreis/</p>
+<p align="left">Caso queira entrar em contato por quaisquer motivos, aqui há algumas maneiras de me encontrar:<br><br>📌 caiofreis2005@gmail.com<br>📌https://www.linkedin.com/in/caiofreis/</p>
