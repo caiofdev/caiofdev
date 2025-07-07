@@ -1,4 +1,4 @@
-# Hello there 👋
+# 👋 Hello there!
 
 I'm **Caio**, a technology enthusiast with a passion for **Software Engineering** and a strong focus on **Back-end development**. I'm currently pursuing a degree in Information Systems at **UFJF** and always looking for new challenges that allow me to learn and grow professionally.
 
