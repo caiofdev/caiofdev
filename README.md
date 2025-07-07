@@ -1,19 +1,21 @@
-<h1 align="left">Caio, Developer</h1>
+# Hello there 👋
 
-###
+I'm **Caio**, a technology enthusiast with a passion for **Software Engineering** and a strong focus on **Back-end development**. I'm currently pursuing a degree in Information Systems at **UFJF** and always looking for new challenges that allow me to learn and grow professionally.
 
-<h4 align="left">Sobre mim❗</h4>
+---
 
-###
+## **Technologies & Tools**
+Here are some of the technologies, languages, and tools I’ve been working with or exploring recently, especially in the areas of back-end development and software engineering.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="250px" width="240px" align="right">
+- **Languages**: PHP, Java, JavaScript
+- **Frameworks**: Laravel, Spring Boot, React
+- **Databases**:  MySQL, PostgreSQL
+- **Tools**: Git, VS Code, Postman, XAMPP
 
-<p align="left">Sou estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora, sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Minha paixão por tecnologia me leva a explorar continuamente novas tendências e inovações no setor.</p>
+---
 
-###
+## Get in touch
+Feel free to reach out if you'd like to connect, collaborate, or just have a good tech talk!
 
-<h4 align="left">Contato 📧</h4>
-
-###
-
-<p align="left">Caso queira entrar em contato por quaisquer motivos, aqui há algumas maneiras de me encontrar:<br><br>📌 caiofreis2005@gmail.com<br>📌https://www.linkedin.com/in/caiofreis/</p>
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/caiofreis/)
+- **Email**: [caiofreis2005@gmail.com](mailto:caiofreis2005@gmail.com)
