@@ -19,3 +19,10 @@ Feel free to reach out if you'd like to connect, collaborate, or just have a goo
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/caiofreis/)
 - **Email**: [caiofreis2005@gmail.com](mailto:caiofreis2005@gmail.com)
+
+---
+
+<div align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=caiofdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="319" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofdev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div>
