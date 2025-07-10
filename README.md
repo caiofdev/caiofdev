@@ -7,8 +7,8 @@ I'm **Caio**, a technology enthusiast with a passion for **Software Engineering*
 ## **Technologies & Tools**
 Here are some of the technologies, languages, and tools I’ve been working with or exploring recently, especially in the areas of back-end development and software engineering.
 
-- **Languages**: PHP, Java, JavaScript (Node.js)
-- **Frameworks**: Laravel, Spring Boot
+- **Languages**: PHP, Java, JavaScript
+- **Frameworks**: Laravel, Spring Boot, Node.js
 - **Databases**:  MySQL, PostgreSQL
 - **Tools**: Git, VS Code, Postman, XAMPP
 
