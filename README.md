@@ -8,7 +8,7 @@ I'm **Caio**, a technology enthusiast with a passion for **Software Engineering*
 Here are some of the technologies, languages, and tools I’ve been working with or exploring recently, especially in the areas of back-end development and software engineering.
 
 - **Languages**: PHP, Java, JavaScript
-- **Frameworks**: Laravel, Spring Boot, Node.js
+- **Frameworks**: Laravel, Symfony, Spring Boot, Node.js
 - **Databases**:  MySQL, PostgreSQL
 - **Tools**: Git, VS Code, Postman, XAMPP
 
@@ -21,8 +21,3 @@ Feel free to reach out if you'd like to connect, collaborate, or just have a goo
 - **Email**: [caiofreis2005@gmail.com](mailto:caiofreis2005@gmail.com)
 
 ---
-
-<div align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=caiofdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="319" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofdev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div>
