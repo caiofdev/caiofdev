@@ -23,7 +23,7 @@ public class AboutMe {
 
   String[][] social = {
       {"GitHub", "github.com/caiofdev"},
-      {"LinkedIn", "linkedin.com/in/caiofdev"}
+      {"LinkedIn", "linkedin.com/in/caiofreis/"}
   };
 }
 ```
