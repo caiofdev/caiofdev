@@ -13,7 +13,7 @@ public class AboutMe {
   };
 
   String[] tools = {
-      "Docker", "SonarQube"
+      "Docker", "SonarQube", "Prometheus", "Grafana"
   };
 
   String[] interests = {
