@@ -13,7 +13,7 @@ public class AboutMe {
   };
 
   String[] tools = {
-      "Docker", "Git", "Linux", "Postman"
+      "Docker", "SonarQube"
   };
 
   String[] interests = {
