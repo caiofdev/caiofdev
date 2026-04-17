@@ -59,3 +59,7 @@ Outside of work, I enjoy **outdoor activities**, **music**, and **traveling**.
 </div>
 
 #
+<p align="center">
+    <a href="https://www.linkedin.com/in/caiofreis/" style="display: inline-block; padding: 0 22px;"><img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" /></a>
+    <a href="https://github.com/caiofdev" style="display: inline-block; padding: 0 22px;"><img src="assets/github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;" /></a>
+</p>
