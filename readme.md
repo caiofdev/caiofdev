@@ -26,21 +26,36 @@ Outside of work, I enjoy **outdoor activities**, **music**, and **traveling**.
   <b>Studies & Learning</b>
 </p>
 
-<img src="assets/1.png" width="220" align="right" style="margin-left: 20px;" />
+<img src="assets/2.png" width="220" align="left" style="margin-right: 20px;" />
 
-I’m currently focused on strengthening my fundamentals and understanding how software behaves in real-world scenarios — from code structure to infrastructure decisions.
+#### I’m currently focused on:
 
-#### Currently studying
 - Cloud fundamentals and AWS core services  
 - Software architecture and system design  
 - Backend development with PHP, Java, and Golang  
 
-#### Currently reading 
+#### I’m currently reading:
 - *Refactoring: Improving the Design of Existing Code* - Martin Fowler
-- *Clean Code* — Robert C. Martin  
+- *Clean Code* — Robert C. Martin     
 
 #
 
-<p align="center">
-  <b>Reach me</b>
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiofdev&theme=dark" alt="Top Languages by Commit" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiofdev&theme=dark" alt="Stats" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiofdev&theme=dark" alt="Profile details" />
+        </p>
+      </td> 
+    </tr>
+  </table>
+</div>
+
+#
