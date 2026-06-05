@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Back-end Software Engineer & DevOps SRE</b>
+  <b>Back-end Software Engineer</b>
 </p>
 
 #
@@ -14,7 +14,7 @@
 
 <img src="assets/1.png" width="220" align="left" style="margin-right: 20px; margin-bottom: 8px;" />
 
-**Back-end Software Engineer** and **DevOps SRE** focused on building **scalable** and **reliable** systems, with experience in real-world projects and collaborative development environments. I am currently mastering **PHP**, **Java**, and **Golang**, while deepening my knowledge in **software architecture**, **distributed systems**, and **infrastructure**.
+**Back-end Software Engineer** focused on building **scalable** and **reliable** systems, with experience in real-world projects and collaborative development environments. I am currently mastering **PHP**, **Java**, and **Golang**, while deepening my knowledge in **software architecture**, **distributed systems**, and **infrastructure**.
 
 Currently, I am preparing for the **AWS Certified Cloud Practitioner** certification, focusing on **cloud fundamentals** and **AWS core services**.
 
