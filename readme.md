@@ -14,7 +14,7 @@ I'm a **Software Engineer** currently working at **Grupo GenIA**, with experienc
 
 I believe good software is the result of **good engineering** decisions, not just good code. That's why I see programming languages as tools rather than identities. I've worked primarily with **Java** and **Go**, but my focus is always on understanding the problem first and choosing the most appropriate solution for the context.
 
-Outside of work, I enjoy studying and writing about Software Engineering, System Design, and DevOps on my blog, <a href="https://www.caioreis.com.br">caioreis.com.br</a>. Sharing what I learn is one of the ways I keep improving as an engineer.
+Outside of work, I enjoy studying and writing about Software Engineering, System Design, AI and DevOps on my blog, <a href="https://www.caioreis.com.br">caioreis.com.br</a>. Sharing what I learn is one of the ways I keep improving as an engineer.
 
 #
 
